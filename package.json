@@ -1,6 +1,6 @@
 {
-  "name": "@auth0/nextjs-auth0",
-  "version": "0.15.0",
+  "name": "@mercell/nextjs-auth0",
+  "version": "0.16.0-mercell",
   "description": "Next.js SDK for signing in with Auth0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/auth0/nextjs-auth0.git"
+    "url": "git+https://github.com/mercell/nextjs-auth0.git"
   },
   "keywords": [
     "auth0",
